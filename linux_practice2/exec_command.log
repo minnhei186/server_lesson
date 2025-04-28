@@ -1,0 +1,949 @@
+  300  ls
+  301  ls
+  302  vim store.php
+  303  ls
+  304  ls
+  305  ls
+  306  ls
+  307  code .
+  308  ls
+  309  open ..
+  310  ls
+  311  cd giztech
+  312  ls
+  313  ls
+  314  code .
+  315  ls
+  316  cd php
+  317  ls
+  318  vim index.php
+  319  ls
+  320  ls
+  321  vim index.php
+  322  vim new.php
+  323  ls
+  324  vim ls
+  325  ls
+  326  vim functions.php
+  327  vim functions.php
+  328  ls
+  329  cat index.php
+  330  ls
+  331  cd giztech
+  332  ls
+  333  ls
+  334  cd php
+  335  ls
+  336  mysql -u root -p 
+  337  ps aux | grep 9999
+  338  ps aux | grep -S
+  339  ps aux | grep php
+  340  ps | aux
+  341  pa aux
+  342  ps aux
+  343  ps aux | grep 9999
+  344  php -S localhost:9999
+  345  php -S localhost
+  346  ps aux | grep php
+  347  php -S localhost:9999
+  348  ls
+  349  cd ../
+  350  ls
+  351  cd /Users/hosokawa/giztech/php
+  352  ls
+  353  php -S localhost:9999
+  354  php -S localhost:9999
+  355  ls
+  356  ls
+  357  ls
+  358  ls
+  359  cd ..
+  360  ls
+  361  pwd
+  362  ls
+  363  cd php
+  364  ls
+  365  ls
+  366  pwd
+  367  ls
+  368  ls
+  369  ls
+  370  ls
+  371  vim functions.php
+  372  ls
+  373  vim functions.php
+  374  ls
+  375  cd ..
+  376  ls
+  377  open .
+  378  ls
+  379  ls
+  380  ls
+  381  ls
+  382  cd php
+  383  ls
+  384  ls
+  385  ls
+  386  cd ..
+  387  ls
+  388  cd php_XXL
+  389  ls
+  390  ls
+  391  cd ..
+  392  ls
+  393  open .
+  394  ls
+  395  cd php
+  396  ls
+  397  cd php_bug_CSRF
+  398  ls
+  399  cat index.php
+  400  ls
+  401  ls
+  402  ls
+  403  ls
+  404  ls
+  405  ls
+  406  ls
+  407  ls
+  408  ls
+  409  ls
+  410  ls
+  411  cd ..
+  412  ls
+  413  open .
+  414  ls
+  415  cd php
+  416  ls
+  417  vim index.php
+  418  ls
+  419  cat new.php
+  420  vim index.php
+  421  ls
+  422  vim new.php
+  423  ls
+  424  vim index.php
+  425  ls
+  426  vim store.php
+  427  ls
+  428  ls
+  429  vim new.php
+  430  ls
+  431  vim index.php
+  432  ls
+  433  ls
+  434  ls
+  435  vim new.php
+  436  ls
+  437  vim functions.php
+  438  ls
+  439  ls
+  440  ls
+  441  vim new.php
+  442  ls
+  443  vim store.php
+  444  ls
+  445  cd /Users/hosokawa/giztech
+  446  ls
+  447  ls
+  448  cd php
+  449  l
+  450  ls
+  451  ls
+  452  pwd
+  453  ls
+  454  ls
+  455  cd giztech
+  456  ls
+  457  cd php
+  458  ls
+  459  code .
+  460  cat /etc/hosts
+  461  ls
+  462  mysql -u root -p
+  463  mysql -u root -p
+  464  mysql.server start
+  465  php -S localhost:9999
+  466  ls
+  467  cd ..ls
+  468  cd ..
+  469  ls
+  470  cd php
+  471  ls
+  472  ls
+  473  ls
+  474  php -S localhosot9999
+  475  ls
+  476  ls
+  477  vim new.php
+  478  ls
+  479  vim functions.php
+  480  ls
+  481  vim functions.php
+  482  vim functions.php
+  483  ls
+  484  ls
+  485  vim index.php
+  486  vim index.php
+  487  ls
+  488  ls
+  489  vim new.php
+  490  ls
+  491  vim new.php
+  492  ls
+  493  vim new.php
+  494  ls
+  495  ls
+  496  vim new.php
+  497  vim new.php
+  498  ls
+  499  vim index.php
+  500  ls
+  501  vim new.php
+  502  ls
+  503  ls
+  504  vim edit.php
+  505  ls
+  506  ls
+  507  vim index.php
+  508  ls
+  509  vim new.php
+  510  ls
+  511  ls
+  512  vim edit.php
+  513  ls
+  514  ls
+  515  vim index.php
+  516  ls
+  517  vim new.php
+  518  ls
+  519  vim edit.php
+  520  vim edit.php
+  521  ls
+  522  vim edit.php
+  523  ls
+  524  ls
+  525  vim new.php
+  526  ls
+  527  vim index.php
+  528  ls
+  529  vim index.php
+  530  ls
+  531  ls
+  532  cat index.php
+  533  ls
+  534  cat new.php
+  535  ls
+  536  cat functions.php
+  537  ls
+  538  cat store.php
+  539  ls
+  540  cd ..
+  541  ls
+  542  cd php
+  543  ls
+  544  ls
+  545  cd ..
+  546  ls
+  547  open .
+  548  ls
+  549  cd php_CSRF
+  550  s
+  551  cd ..
+  552  ls
+  553  cd php
+  554  ls
+  555  cdls
+  556  vim edit.php
+  557  ls
+  558  ls
+  559  cd ..
+  560  ls
+  561  open .
+  562  ls
+  563  cd yasumoto_php
+  564  ls
+  565  vim config.php
+  566  ls
+  567  open .
+  568  open .
+  569  ls
+  570  cd ..
+  571  ls
+  572  open .
+  573  ls
+  574  cd php
+  575  ls
+  576  vim index.php
+  577  ls
+  578  vim store.php
+  579  ls
+  580  vim functions.php
+  581  ls
+  582  vim store.php
+  583  ls
+  584  vim connection.php
+  585  ls
+  586  ls
+  587  ls
+  588  ls
+  589  ls
+  590  ls
+  591  cd .
+  592  .ls
+  593  ls
+  594  cd ..
+  595  ls
+  596  cd php_hosokawa
+  597  ls
+  598  vim index.php
+  599  ls
+  600  ls
+  601  ls
+  602  cd ..
+  603  ls
+  604  open .
+  605  ls
+  606  cd php
+  607  ls
+  608  ls
+  609  s
+  610  open .
+  611  ls
+  612  cd ..
+  613  ls
+  614  open .
+  615  s
+  616  pwd
+  617  ls
+  618  ls
+  619  cd php_yasumoto
+  620  ls
+  621  vim connection.php
+  622  cat connection.php
+  623  ls
+  624  ls
+  625  vim connection.php
+  626  ls
+  627  ls
+  628  brew services start mysql
+  629  sudo systemctl status mysql
+  630  mysql -u root -p --socket=/opt/homebrew/var/mysql/mysql.sock
+  631  mysql -u root -p --socket=/opt/homebrew/var/mysql/mysql.sock
+  632  mysqladmin variables | grep socket
+  633  brew services list
+  634  brew services start mysql@8.0
+  635  mysql -u root -p
+  636  ls
+  637  ls
+  638  vim new.php
+  639  ls
+  640  vim store.php
+  641  ls
+  642  php -S localhost:9999
+  643  ls
+  644  cd ..
+  645  ls
+  646  cd php
+  647  ls
+  648  vim index.php
+  649  ls
+  650  vim index.php
+  651  ls
+  652  php -S localhost:9999
+  653  ls
+  654  ls
+  655  vim new.php
+  656  ls
+  657  vim edit.php
+  658  ls
+  659  vim connection.php
+  660  ls
+  661  ls
+  662  vim store.php
+  663  ls
+  664  vim new.php
+  665  ls
+  666  vim functions.php
+  667  ls
+  668  vim connection.php
+  669  ls
+  670  php -S localhost:9999
+  671  ls
+  672  ls
+  673  cd ..
+  674  ls
+  675  cd php_hosokawa
+  676  ls
+  677  php -S localhost:9999
+  678  php -S localhost:9999
+  679  ls
+  680  ls
+  681  cd ..
+  682  ls
+  683  cd php_hosokawa
+  684  ls
+  685  <?php\n\nrequire_once('functions.php');\nheader('Set-Cookie: userId=123');\n//setToken();\n?>\n\n<!DOCTYPE html>\n<html lang="ja">\n  <head>\n    <meta charset="UTF-8">\n    <title>Home</title>\n  </head>\n  <body>\n    welcome hello world\n    <?php if (!empty($_SESSION['err'])): ?>\n    <p><?= $_SESSION['err']; ?></p>\n    <?php endif; ?>\n    <div>\n      <a href="new.php">\n        <p>新規作成</p>\n      </a>\n    </div>\n    <div>\n      <table>\n        <tr>\n          <th>ID</th>\n          <th>内容</th>\n          <th>更新</th>\n          <th>削除</th>\n        </tr>\n        <?php foreach (getTodoList() as $todo): ?>\n          <tr>\n            <td><?= e($todo['id']); ?></td>\n            <td><?= e($todo['content']); ?></td>\n            <td>\n            <a href="edit.php?id=<?= e($todo['id']); ?>">更新</a>\n            </td>\n            <td>\n              <form action="store.php" method="post">\n                <input type="hidden" name="id" value="<?= e($todo['id']); ?>">\n    <!---       <input type="hidden" name="token" value="<?= $_SESSION['token']; ?>"> -->\n                <button type="submit">削除</button>\n              </form>\n            </td>\n          </tr>  \n        <?php endforeach; ?>\n      </table>\n    </div>\n    <?php unsetError(); ?>\n  </body>\n</html>\n
+  686  ls
+  687  php -S localhost:9999
+  688  ls
+  689  ls
+  690  ls
+  691  ls
+  692  cd ..
+  693  ls
+  694  ls
+  695  ls
+  696  cd
+  697  ls
+  698  brew list
+  699  brew uninstall docker
+  700  brew uninstall docker-compose
+  701  ls
+  702  ls /Applications | grep -i docker
+  703  docker --version
+  704  ls
+  705  ls
+  706  ls
+  707  ls /Applications | grep -i docker
+  708  ps aux | grep -i docker
+  709  ls /Applications | grep -i docker
+  710  ls
+  711  brew list
+  712  brew install docker --cask
+  713  sudo rm /usr/local/bin/docker
+  714  brew list | grep docker
+  715  brew install --cask docker
+  716  sudo rm /usr/local/bin/docker-credential-desktop
+  717  brew install --cask docker
+  718  sudo rm /usr/local/bin/docker-credential-osxkeychain
+  719  brew install --cask docker
+  720  sudo rm /usr/local/bin/kubectl.docker
+  721  brew install --cask docker
+  722  sudo rm /usr/local/bin/hub-tool
+  723  brew install --cask docker
+  724  open -a Docker
+  725  ~/Library/Containers/com.docker.docker/Data/log/
+  726  ls -l ~/Library/Containers/com.docker.docker/Data/log/
+  727  ls
+  728  mysql -u root -p
+  729  brew services start mysql
+  730  mysql -u root -p
+  731  ls
+  732  ls
+  733  ls
+  734  vim store.php
+  735  ls
+  736  vim xss.php
+  737  ls
+  738  vim index.php
+  739  ls
+  740  vim new.php
+  741  ls
+  742  cat config.php
+  743  ls
+  744  ls
+  745  cd ..
+  746  ls
+  747  cd php
+  748  ls
+  749  cd ..
+  750  ls
+  751  cd php_hosokawa
+  752  ls
+  753  cd ..
+  754  ls
+  755  cd php
+  756  ls
+  757  ls
+  758  ls
+  759  cd ..
+  760  ls
+  761  cd php
+  762  ls
+  763  ls
+  764  cd ..
+  765  ls
+  766  cd php_hosokawa
+  767  ls
+  768  cat xss.php
+  769  ls
+  770  rm xss.php
+  771  ls
+  772  ls
+  773  vim edit.php
+  774  ls
+  775  ls
+  776  cd ..
+  777  ls
+  778  cd php_hosokawa
+  779  ls
+  780  rm query.txt
+  781  ls
+  782  ls
+  783  vim functions.php
+  784  ls
+  785  vim new.php
+  786  ls
+  787  vim store.php
+  788  ls
+  789  vim connection.php
+  790  ls
+  791  vim ls
+  792  ls
+  793  vim connection.php
+  794  ls
+  795  vim connection.php
+  796  cat connection.php
+  797  ls
+  798  vim connection.php
+  799  cat connection.php
+  800  ls
+  801  vim connection.php
+  802  ls
+  803  ls
+  804  ls
+  805  ls
+  806  vim index.php
+  807  ls
+  808  vim new.php
+  809  ls
+  810  vim functions.php
+  811  ls
+  812  ls
+  813  cd
+  814  ls
+  815  cd giztech
+  816  ls
+  817  cd sql
+  818  ls
+  819  cd sql_review
+  820  ls
+  821  vim db_lesson.sql
+  822  ls
+  823  ls
+  824  ls
+  825  ls
+  826  cd ..
+  827  ls
+  828  ls
+  829  cd ..
+  830  ls
+  831  cd php
+  832  ls
+  833  cd php_hosokawa
+  834  ls
+  835  vim functions.php
+  836  ls
+  837  vim new.php
+  838  ls
+  839  vim index.php
+  840  ls
+  841  vim new.php
+  842  ls
+  843  vim store.php
+  844  ls
+  845  vim edit.php
+  846  ls
+  847  ls
+  848  ls
+  849  ls
+  850  cd ..
+  851  ls
+  852  ls
+  853  cd php
+  854  ls
+  855  ls
+  856  ls
+  857  cd php_hosokawa
+  858  ls
+  859  ls
+  860  ls
+  861  ls
+  862  vim functions.php
+  863  ls
+  864  vim connection.php
+  865  ls
+  866  vim index.php
+  867  ls
+  868  vim new.php
+  869  ls
+  870  vim edit.php
+  871  ls
+  872  ls
+  873  vim new.php
+  874  ls
+  875  vim functions.php
+  876  ls
+  877  vim index.php
+  878  ls
+  879  vim store.php
+  880  ls
+  881  vim new.php
+  882  ls
+  883  vim new.php
+  884  ls
+  885  ls
+  886  ls
+  887  pwd
+  888  ls
+  889  ls
+  890  vim store.php
+  891  ls
+  892  vim connection.php
+  893  ls
+  894  vim functions.php
+  895  ls
+  896  vim functions.php
+  897  ls
+  898  vim new.php
+  899  ls
+  900  vim index.php
+  901  ls
+  902  ls
+  903  code .
+  904  ls
+  905  ls
+  906  cd ..
+  907  ls
+  908  cd php_hosokawa
+  909  ls
+  910  open .
+  911  ls
+  912  cat index.php
+  913  ls
+  914  cat new.php
+  915  cat functions.php
+  916  ls
+  917  opne ..
+  918  ls
+  919  cd ..
+  920  ls
+  921  open .
+  922  l
+  923  ls
+  924  cd php_hosokawa
+  925  ls
+  926  open .
+  927  code .
+  928  lw
+  929  ls
+  930  ls
+  931  php -S localhost:9999
+  932  php -S localhost:9999
+  933  ls
+  934  vim new.php
+  935  ls
+  936  vim new.php
+  937  ls
+  938  vim functions.php
+  939  ls
+  940  ls
+  941  ls
+  942  ls
+  943  cd giztech
+  944  ls
+  945  cd ..
+  946  ls
+  947  ls
+  948  ls
+  949  ls
+  950  cd giztech
+  951  ls
+  952  cd php_hosokawa
+  953  ls
+  954  cd 42tokyo
+  955  ls
+  956  cd level04
+  957  ls
+  958  cd cub3d
+  959  ls
+  960  cd project
+  961  ls
+  962  ./cub3D map.cub
+  963  brew uninstall --cask docker
+  964  rm -rf ~/Library/Application\ Support/Docker\ Desktop\nrm -rf ~/Library/Containers/com.docker.docker\nrm -rf ~/Library/Group\ Containers/group.com.docker\nrm -rf ~/.docker\nrm -rf /usr/local/bin/docker*\nrm -rf /usr/local/lib/docker\nrm ~/Library/LaunchAgents/com.docker.helper.plist
+  965  sudo rm -rf ~/Library/Containers/com.docker.docker
+  966  /Users/hosokawa/Library/Containers
+  967  cd /Users/hosokawa/Library/Containers
+  968  ls
+  969  ls
+  970  ls
+  971  cd com.docker.docker
+  972  ls
+  973  ls
+  974  pwd
+  975  ls
+  976  ls
+  977  cd ~/Library/Containers\nsudo rm -rf com.docker.docker
+  978  ls
+  979  rm -rf com.docker.docker
+  980  sudo rm -rf com.docker.docker
+  981  cd
+  982  ls
+  983  brew install --cask docker
+  984  brew uninstall --cask docker
+  985  rm -rf ~/Library/Application\ Support/Docker\ Desktop\nrm -rf ~/Library/Containers/com.docker.docker\nrm -rf ~/Library/Group\ Containers/group.com.docker\nrm -rf ~/.docker\nrm -rf /usr/local/bin/docker*\nrm -rf /usr/local/lib/docker
+  986  ls
+  987   docker pull debian:latest
+  988   docker images
+  989  ls
+  990  docker run -it -d --name debian debian:latest
+  991  docker ps
+  992  docker ps
+  993  docker exec -it debian bash
+  994  ls
+  995  ls
+  996  ls
+  997  docker exec -it debian bash
+  998  ls
+  999  root@0357ed9ca63d:/# docker stop debian\nbash: docker: command not found
+ 1000  ls
+ 1001  ls
+ 1002  cd giztech
+ 1003  ls
+ 1004  ls
+ 1005  ls
+ 1006  cd php_hosokawa
+ 1007  ls
+ 1008  ls
+ 1009  cd ..
+ 1010  ls
+ 1011  ls
+ 1012  ls
+ 1013  ls
+ 1014  cd ..
+ 1015  ls
+ 1016  cd 42tokyo
+ 1017  ls
+ 1018  cd ..
+ 1019  ls
+ 1020  cd giztech
+ 1021  ls
+ 1022  open .
+ 1023  ls
+ 1024  cd ..
+ 1025  s
+ 1026  ls
+ 1027  cd web
+ 1028  ls
+ 1029  cd ..
+ 1030  ls
+ 1031  cd tmp
+ 1032  ls
+ 1033  cd ..
+ 1034  ls
+ 1035  cd game
+ 1036  ls
+ 1037  cd ..
+ 1038  ls
+ 1039  cd Library
+ 1040  ls
+ 1041  cd
+ 1042  ls
+ 1043  cd Documents
+ 1044  ls
+ 1045  ls
+ 1046  cd ..
+ 1047  ls
+ 1048  cd Downloads
+ 1049  ls
+ 1050  cd ..
+ 1051  ls
+ 1052  cd giztech
+ 1053  ls
+ 1054  cd ..
+ 1055  ls
+ 1056  cd interview
+ 1057  ls
+ 1058  cd ..
+ 1059  ls
+ 1060  cd iroiro
+ 1061  ls
+ 1062  cd ..
+ 1063  ls
+ 1064  cd giztech
+ 1065  ls
+ 1066  code .
+ 1067  ls
+ 1068  ls
+ 1069  c ..
+ 1070  cd ..
+ 1071  ls
+ 1072  cd tmp
+ 1073  ls
+ 1074  cd ..
+ 1075  ls
+ 1076  cd giztech
+ 1077  ls
+ 1078  git clone https://github.com/minnhei186/server_lesson.git
+ 1079  ls
+ 1080  cd server_lesson
+ 1081  ls
+ 1082  cd linux_practice1
+ 1083  ls
+ 1084  cd ..
+ 1085  ls
+ 1086  ls
+ 1087  git log
+ 1088  ls
+ 1089  mkdir linux_practice2 
+ 1090  ls
+ 1091  cd linux_practice2
+ 1092  ls
+ 1093  mkdir documents
+ 1094  ls
+ 1095  cd documents
+ 1096  ls
+ 1097  ls
+ 1098  ls
+ 1099  ls
+ 1100  cd ..
+ 1101  ls
+ 1102  ls
+ 1103  cd documents
+ 1104  ls
+ 1105  touch file_script.sh
+ 1106  vim file_script.sh
+ 1107  ls
+ 1108  bash file_script.sh
+ 1109  ls
+ 1110  open .
+ 1111  ls
+ 1112  vim file_script.sh
+ 1113  ls
+ 1114  bash file_script.sh
+ 1115  ls
+ 1116  ls
+ 1117  vim file_script.sh
+ 1118  bash file_script.sh
+ 1119  ls
+ 1120  ls
+ 1121  ls
+ 1122  rm file_script.sh
+ 1123  ls
+ 1124  ls
+ 1125  cd ..
+ 1126  ls
+ 1127  ls
+ 1128  cd ..
+ 1129  ls
+ 1130  git status
+ 1131  git add linux_practice2
+ 1132  ls
+ 1133  git log
+ 1134  git commit -m "practice01_00"
+ 1135  ls
+ 1136  ls
+ 1137  cd linux_practice2
+ 1138  ls
+ 1139  mkdir trash 
+ 1140  ls
+ 1141  touch move.sh
+ 1142  vim move.sh
+ 1143  ls
+ 1144  ls
+ 1145  vim trash
+ 1146  vim move.sh
+ 1147  ls
+ 1148  vim move.sh
+ 1149  ls
+ 1150  cat documents/gizumo
+ 1151  ls
+ 1152  ls
+ 1153  vim move.sh
+ 1154  ls
+ 1155  pwd
+ 1156  cd 
+ 1157  ls
+ 1158  cd /Users/hosokawa/giztech/server_lesson/linux_practice2
+ 1159  ls
+ 1160  ls
+ 1161  bsh move.sh
+ 1162  bash move.sh
+ 1163  ls
+ 1164  cd documents
+ 1165  ls
+ 1166  ls
+ 1167  ls
+ 1168  cd ..
+ 1169  ls
+ 1170  ls
+ 1171  cd ..
+ 1172  s
+ 1173  ls
+ 1174  cd ..
+ 1175  ls
+ 1176  cd server_lesson
+ 1177  ls
+ 1178  git status
+ 1179  git add linux_practice2
+ 1180  ls
+ 1181  git statsus
+ 1182  git status
+ 1183  git commit -m "add:practice01_01"
+ 1184  ls
+ 1185  ;ls
+ 1186  cd linux_practice2
+ 1187  ls
+ 1188  pwd
+ 1189  touch .gitignore
+ 1190  vim .gitignore
+ 1191  ls
+ 1192  ls
+ 1193  cd ..
+ 1194  ls
+ 1195  ls
+ 1196  ls
+ 1197  cd linux_practice2
+ 1198  ls
+ 1199  git log
+ 1200  ls
+ 1201  cat trash
+ 1202  ls
+ 1203  ls
+ 1204  ls -la
+ 1205  ls
+ 1206  rm .gitignore
+ 1207  ls
+ 1208  cd ..
+ 1209  ls
+ 1210  ls -la
+ 1211  ls
+ 1212  touch .gitignore
+ 1213  ls
+ 1214  vim .gitignore
+ 1215  vim .git
+ 1216  ls
+ 1217  vim gitig
+ 1218  ls
+ 1219  vim .gitignore
+ 1220  ls
+ 1221  ls
+ 1222  git status
+ 1223  git .gitignore
+ 1224  ls
+ 1225  git add .gitignore
+ 1226  git commit -m "add:practice01_02"
+ 1227  git status
+ 1228  ls
+ 1229  cd linux_practice2
+ 1230  ls
+ 1231  mkdir exec_command.log
+ 1232  ls
+ 1233  git log
+ 1234  git commit --amend
+ 1235  ls
+ 1236  git log
+ 1237  ls
+ 1238  ls
+ 1239  history 300
+ 1240  history 300 > exec_command.log
+ 1241  history 300 >cat exec_command.log
+ 1242  ls
+ 1243  history 300 >cat exec_command.log
+ 1244  ls
+ 1245  rm -r exec_command.log
+ 1246  ls
+ 1247  touch exec_command.log
+ 1248  ls
